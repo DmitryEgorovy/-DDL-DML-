@@ -71,3 +71,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 customer         | customer_id
 ```
 
+Ответ: 
+![alt text](screnshoot/2.1.png)
+сылка на exel файл:  
+https://github.com/DmitryEgorovy/-DDL-DML-/blob/1671d7a01b79a14b8bd00e450ffc43ac76d75fc8/2.1.ods
