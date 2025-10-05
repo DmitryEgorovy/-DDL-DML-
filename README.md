@@ -60,7 +60,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![alt text](screnshoot/1.8.png)  
 ![alt text](screnshoot/1.9.png)
 
-*Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+*Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*  
+![alt text](screnshoot/1.10.png)
 
 
 ### Задание 2
